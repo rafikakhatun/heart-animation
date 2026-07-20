@@ -1,10 +1,11 @@
 
 import React from 'react';
+import NeonHeartTrace from './component/NeonHeartTrace';
 
 const App = () => {
   return (
     <div>
-      <p>heart animation</p>
+     <NeonHeartTrace></NeonHeartTrace>
       
     </div>
   );
