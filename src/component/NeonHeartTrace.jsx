@@ -174,7 +174,7 @@ export default function NeonHeartTrace() {
 
   return (
     <div
-      className="relative w-full flex items-center justify-center overflow-hidden"
+      className="relative w-full h-screen flex items-center justify-center overflow-hidden"
       style={{ minHeight: 520, background: '#050308' }}
       onClick={handleClick}
     >
